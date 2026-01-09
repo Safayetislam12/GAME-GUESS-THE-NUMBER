@@ -1,0 +1,20 @@
+This game make for own practice , clear the concepet of c programming ,
+
+Game : GUESS THE NUMBER .
+Game_Maker : SAISTO [Safayet islam]
+Game size : 69 kb 
+
+Game concepet :
+
+1.Guess The number .
+2.If you give the number computer match your number to his number.
+3 if your number correct you wiil be prized.
+4.you fail computer give hints. 
+5.if your number greater than computer number hint is your number so high.
+6.if your number lower than computer number hint is your number so low.
+7.You can make score by how many time you try.
+
+
+                            ENJOY THE GAME !
+
+Oh ! My Score : 2 attemps 😁😁
